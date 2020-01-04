@@ -1,0 +1,17 @@
+James Graupera
+pa4
+Files:
+1. README
+2. Simulation.c
+3. IntegerQueue.h
+4. IntegerQueue.c
+5. IntegerQueueTest.c
+6. Job.h
+7. Job.c
+8. Makefile
+
+
+Note to Grader:
+In my IntegerQueue.c instead of counting the chars with a function I added a
+state to my IntegerQueue called strlen that keeps track of how much I will
+have to allocate in IntegerQueueToString().
